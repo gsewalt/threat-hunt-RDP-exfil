@@ -2,10 +2,7 @@
 
 # Incident Response: Data Exfiltration via RDP Incident
 
-* **Report ID:** INC-2025-XXXX
-* **Analyst:** Gregory Sewalt
-* **Report Date:** 2025-09-21
-* **Incident Date (observed):** 2025-09-12 → 2025-09-16
+(Read the investigation report here: https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration/blob/main/investigation%20report%20rdp%20to%20exil.pdf)
 
 ---
 
