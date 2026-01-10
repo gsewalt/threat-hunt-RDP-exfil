@@ -11,7 +11,7 @@
 
 ## Introduction: Scenario Overview
 
-During routine monitoring, unusual RDP login activity was detected on the corporate network. Multiple failed login attempts were observed against systems matching the `flare` naming convention. As a SOC analyst, the goal was to trace these attempts, determine if any were successful, identify attacker behavior post-compromise, and determine the scope of potential data exfiltration.
+During routine monitoring, unusual RDP login activity was detected on the network in question. Multiple failed login attempts were observed against systems matching the `flare` naming convention. As a SOC analyst, the goal was to trace these attempts, determine if any were successful, identify attacker behavior post-compromise, and determine the scope of potential data exfiltration.
 
 This investigation walks through the entire attack lifecycle: from initial access to post-exploitation activity, persistence, detection avoidance, and finally exfiltration. The objective was to piece together the attacker’s movements, identify Indicators of Compromise (IOCs), and provide actionable remediation steps.
 
