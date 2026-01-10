@@ -2,7 +2,7 @@
 
 # Incident Response: Data Exfiltration via RDP Incident
 
-(Read the investigation report here: https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration/blob/main/investigation%20report%20rdp%20to%20exil.pdf)
+**[Read the Official Investigation Report]([https://github.com/gsewalt/pci-dss-starter-pack](https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration/blob/main/investigation%20report%20rdp%20to%20exil.pdf))**
 
 ---
 
