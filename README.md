@@ -2,7 +2,7 @@
 
 # Incident Response: Data Exfiltration via RDP Incident
 
-[Read the Official Investigation Report]((https://github.com/gsewalt/threat-hunt-RDP-to-exfiltration/blob/main/soc-investigation-report.pdf))
+([Finalized Investigation Report](https://github.com/user-attachments/files/24539222/investigation.report.rdp.to.exil.pdf))
 
 ---
 
