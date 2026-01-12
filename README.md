@@ -1,6 +1,4 @@
-<img height="512" alt="unnamed" src="https://github.com/user-attachments/assets/e16a0fc3-0f8d-4b8d-8c66-59844544654d" />
-
-# Incident Response: Data Exfiltration via RDP Incident
+# Case Study: Data Exfiltration via RDP Incident Response & Investigation Report
 
 ([Finalized Investigation Report](https://github.com/user-attachments/files/24539222/investigation.report.rdp.to.exil.pdf))
 
