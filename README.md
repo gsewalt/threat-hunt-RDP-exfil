@@ -6,7 +6,7 @@
 
 ---
 
-## Introduction: Scenario Overview
+## Introduction
 
 During routine monitoring, unusual RDP login activity was detected on the network in question. Multiple failed login attempts were observed against systems matching the `flare` naming convention. As a SOC analyst, the goal was to trace these attempts, determine if any were successful, identify attacker behavior post-compromise, and determine the scope of potential data exfiltration.
 
